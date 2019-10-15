@@ -1,2 +1,1 @@
-# Gatling_Tutorials
-Gatling_Tutorials
+This includes all the Notes , Code and Simulations that are did as part of Gatling Course (https://www.udemy.com/course/gatling-fundamentals/)
